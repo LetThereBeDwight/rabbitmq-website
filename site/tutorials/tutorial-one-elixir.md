@@ -65,7 +65,7 @@ digraph G {
 > end
 > defp deps() do
 >   [
->     {:amqp, "~> 1.0"},
+>     {:amqp, "~> 1.1.0"},
 >   ]
 > end
 > </pre>
